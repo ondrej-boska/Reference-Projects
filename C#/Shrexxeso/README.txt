@@ -1,0 +1,2 @@
+Playing against Donkey - computer always chooses cards to turn randomly
+Playing against Shrek - computer checks whether any cards with the same image have been turned yet, if so, he choses them, otherwise he chooses randomly.
